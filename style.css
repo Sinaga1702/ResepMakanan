@@ -1,0 +1,89 @@
+
+  .image img{
+    height: 700px;
+    width: 1600px;
+    left: 165px;
+    top: 99px;
+    border-radius: 0px;
+    background-size: cover;
+}
+.card{
+      width: 500px;
+      height: 100px;
+      left: 120px;
+      margin: 1rem;
+    }
+
+.card img{
+  height: 100px;
+  width: 500px;  
+}
+
+.gambar{
+  position: absolute;
+width: 304px;
+height: 206px;
+left: 700px;
+top: 100Px;
+}
+
+.text2{
+  position: absolute;
+width: 320px;
+height: 300px;
+left: 700px;
+top: 300px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+}
+
+.text3{
+position: absolute;
+width: 718px;
+height: 262px;
+left: 100px;
+top: 600px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+
+}
+.signup{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+h1{
+  height: 77px;
+  width: 895px;
+  left: 272px;
+  top: 107px;
+  border-radius: nullpx;
+
+}
+.signup-form{
+  width: 450px;
+  height: 550px;
+  padding: 40px;
+
+}
+input[type="email"],
+input[type="password"],
+input[type="nama"],
+input[type="username"],
+input[type="text"]{
+  color:#000;
+  border: 2px solid #cec7c7;
+}
+.carousel-inner h2{
+  color: white;
+}
+
